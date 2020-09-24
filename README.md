@@ -1,5 +1,5 @@
 # hello-world
 - Hi
-- I like Angular js, Backbone js, React js, Slim.
+- I like Angular js, Backbone js, Slim.
 - I like Laravel , Vue js...
 - I like Cake, React js...
